@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deckloins
 - 👀 I’m interested in ... Pen testing
-- 🌱 I’m currently learning ... on tryhack me the basics of hacking and pen testing
+- 🌱 I’m currently learning ... on tryhackme the basics of hacking and pen testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Here or on Discord 
 
